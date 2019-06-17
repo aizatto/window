@@ -28,7 +28,7 @@ export default function Navbar() {
             <NavLink href="https://www.logbook.my/">Logbook</NavLink>
           </NavItem>
           <NavItem>
-            <NavLink href="https://github.com/aizatto/dom-window">GitHub</NavLink>
+            <NavLink href="https://github.com/aizatto/window/">GitHub</NavLink>
           </NavItem>
           <NavItem>
             <NavLink href="https://www.linkedin.com/in/aizatto">LinkedIn</NavLink>
