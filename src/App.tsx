@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useLayoutEffect } from 'react';
-import { Container, FormGroup, Label, Col, Table, Input } from 'reactstrap';
+import React, { useState, useEffect } from 'react';
+import { Container, Table } from 'reactstrap';
 import Navbar from './Navbar';
 
 import "./bootstrap.min.css";
